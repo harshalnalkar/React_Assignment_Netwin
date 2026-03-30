@@ -1,0 +1,5 @@
+{
+  "name": "TaskFlow Manager",
+  "description": "A multi-user task management application with authentication, global state, and advanced filtering.",
+  "requestFramePermissions": []
+}
