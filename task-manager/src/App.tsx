@@ -66,7 +66,7 @@ function AppContent() {
 export default function App() {
   return (
     <AuthProvider>
-      <Router>
+      <Router basename="/React_Assignment_Netwin/task-manager">
         <AppContent />
       </Router>
     </AuthProvider>

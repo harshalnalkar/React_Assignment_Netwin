@@ -22,7 +22,7 @@ function LoadingFallback() {
 export default function App() {
   return (
     <CartProvider>
-      <Router>
+      <Router basename="/React_Assignment_Netwin/shoppy-product">
         <div className="min-h-screen bg-white font-sans text-gray-900 selection:bg-black selection:text-white">
           <Navbar />
           <main>
